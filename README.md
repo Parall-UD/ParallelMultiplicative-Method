@@ -16,4 +16,4 @@ El manual técnico realizado para esta aplicación, tiene como finalidad present
 Este documento es una Especificación de Requisitos Software (ERS) para el software llamado “ParallelMultiplicative-Method”. Esta especificación se ha estructurado basándose en las directrices dadas por el estándar IEEE Práctica Recomendada para Especificaciones de Requisitos Software ANSI/IEEE 830, 1998. Este documento se encuentra disponible en la siguiente dirección : https://github.com/Parall-UD/ParallelMultiplicative-Method/blob/master/manuales/IEEE-830-Multiplicative.pdf
 
 ## Video Tutorial
-Con el fin de presentar detalladamente el funcionamiento de la aplicación, se realizó un video tutorial donde se presenta la interacción entre el usuario y la plataforma. El video tutorial se encuentra disponible en la siguiente- dirección:
+Con el fin de presentar detalladamente el funcionamiento de la aplicación, se realizó un video tutorial donde se presenta la interacción entre el usuario y la plataforma. El video tutorial se encuentra disponible en la siguiente- dirección: https://www.youtube.com/watch?v=wMqn5QlaRag&feature=youtu.be
